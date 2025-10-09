@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quant-trading-system/static/css/main.68872df2.css",
+    "main.js": "/quant-trading-system/static/js/main.83066ca1.js",
+    "static/js/453.ac699276.chunk.js": "/quant-trading-system/static/js/453.ac699276.chunk.js",
+    "index.html": "/quant-trading-system/index.html",
+    "main.68872df2.css.map": "/quant-trading-system/static/css/main.68872df2.css.map",
+    "main.83066ca1.js.map": "/quant-trading-system/static/js/main.83066ca1.js.map",
+    "453.ac699276.chunk.js.map": "/quant-trading-system/static/js/453.ac699276.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68872df2.css",
+    "static/js/main.83066ca1.js"
+  ]
+}
